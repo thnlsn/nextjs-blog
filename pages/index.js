@@ -1,5 +1,8 @@
 import Head from 'next/head';
 
+// Link for linking pages
+import Link from 'next/link';
+
 export default function Home() {
   return (
     <div className='container'>
