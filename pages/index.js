@@ -62,6 +62,8 @@ export default function Home() {
         </a>
       </footer>
 
+      {/* The following CSS is scoped to this component only */}
+
       <style jsx>{`
         .container {
           min-height: 100vh;
